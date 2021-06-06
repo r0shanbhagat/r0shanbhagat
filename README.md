@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/roshan-bhagat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/roshan-bhagat/" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://stackexchange.com/users/11363953/soft-code" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/11363953/soft-code" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/roshanbhagat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/roshanbhagat" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/iamr0shan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/roshanbhagat" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="mailto:softengg.roshan@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mailto:softengg.roshan@gmail.com" height="30" width="40" /></a>
 </p>
 
