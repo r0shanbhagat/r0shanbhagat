@@ -67,7 +67,5 @@
   
   
 </table>
-
-![Roshan's github stats](https://github-readme-stats.vercel.app/api?username=r0shanbhagat&hide=prs&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0shanbhagat&layout=compact&hide_border=true)
 
