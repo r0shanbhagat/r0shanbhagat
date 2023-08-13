@@ -67,5 +67,4 @@
   
   
 </table>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r0shanbhagat&layout=compact&hide_border=true)
 
