@@ -1,16 +1,18 @@
-<h2 align="left">Hi 👋, I'm Roshan Bhagat</h2>
+<h1 align="start">Hi 👋, I'm Roshan Bhagat</h1>
 
-- 🔭 I’m currently working on Mobile Application Development (Android)
+- 🔭 A software engineer focused on all things UI
 - 💬 Ask me about Mobile App Development  
 - 📫 How to reach me: softengg.roshan@gmail.com 
 - 😄 Pronouns: they/them 
 - ⚡ Fun fact:  My interests range from technology to programming. I am also interested in reading, coffee, and design. 
 
 
-<p align="left">
-  <img src="https://gpvc.arturio.dev/r0shanbhagat" alt="r0shanbhagat" /> &nbsp; <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='20' height='20'></a>&nbsp;
-  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='20' height='20'></a> 
-  </p>
+<p align="start">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmetbostanciklioglu&theme=flat&column=7&margin-w=2&margin-h=0" alt="GitHub trophies"/>
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,4 +69,14 @@
   
   
 </table>
+
+  <!-- Add more icons here -->
+</p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ahmetbostanciklioglu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=r0shanbhagat&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
